@@ -1,6 +1,6 @@
-/* 
+* 
  * QA training Assignment
- * Name:Bikash Shrestha
+ * Name:Bikash Shrestha.
  * Date:8/13/2021
  *
  * */
