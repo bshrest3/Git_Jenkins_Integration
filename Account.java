@@ -11,7 +11,7 @@ public class Account {
 	 {		 
 			System.out.println(" \t Welcome to Bank of America");	// Body of the method.
 	 }
-	public static void line()  	// on returnable void type method
+	public static void line()  	// non returnable void type method
 	 {		 
 			System.out.println(" *******************************");	
 	 }		
